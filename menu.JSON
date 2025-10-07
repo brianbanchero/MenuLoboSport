@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Grilled Salmon",
+    "price": "$18.00",
+    "image": "https://images.unsplash.com/photo-1604909053223-03a5c9dc6258",
+    "category": "Platos Principales"
+  },
+  {
+    "id": 2,
+    "name": "Spaghetti Bolognese",
+    "price": "$18.00",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f54ad5b01",
+    "category": "Platos Principales"
+  },
+  {
+    "id": 3,
+    "name": "Margherita Pizza",
+    "price": "$14.00",
+    "image": "https://images.unsplash.com/photo-1594007654729-407eedc4f0d5",
+    "category": "Minutas"
+  },
+  {
+    "id": 4,
+    "name": "Chicken Caesar Salad",
+    "price": "$12.00",
+    "image": "https://images.unsplash.com/photo-1572441710534-6809d55b6f08",
+    "category": "Merienda"
+  },
+  {
+    "id": 5,
+    "name": "Beef Burger",
+    "price": "$15.00",
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+    "category": "Platos Principales"
+  },
+  {
+    "id": 6,
+    "name": "Chocolate Cake",
+    "price": "$7.00",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Merienda"
+  },
+  {
+    "id": 7,
+    "name": "Coca Cola",
+    "price": "$3.00",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  }
+]
