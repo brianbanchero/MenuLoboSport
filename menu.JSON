@@ -1,50 +1,246 @@
 [
   {
     "id": 1,
-    "name": "Grilled Salmon",
-    "price": "$18.00",
+    "name": "Empanada de Carne",
+    "price": "$2.000",
     "image": "https://images.unsplash.com/photo-1604909053223-03a5c9dc6258",
-    "category": "Platos Principales"
+    "category": "Empanadas"
   },
   {
     "id": 2,
-    "name": "Spaghetti Bolognese",
-    "price": "$18.00",
+    "name": "Empanada de Pollo",
+    "price": "$2000",
     "image": "https://images.unsplash.com/photo-1603133872878-684f54ad5b01",
-    "category": "Platos Principales"
+    "category": "Empanadas"
   },
   {
     "id": 3,
-    "name": "Margherita Pizza",
-    "price": "$14.00",
+    "name": "Empanada de Jamon y Queso",
+    "price": "$2000",
     "image": "https://images.unsplash.com/photo-1594007654729-407eedc4f0d5",
-    "category": "Minutas"
+    "category": "Empanadas"
   },
   {
     "id": 4,
-    "name": "Chicken Caesar Salad",
-    "price": "$12.00",
+    "name": "Hamburguesa Simple",
+    "price": "$6000",
     "image": "https://images.unsplash.com/photo-1572441710534-6809d55b6f08",
-    "category": "Merienda"
+    "category": "Hamburguesas"
   },
   {
     "id": 5,
-    "name": "Beef Burger",
-    "price": "$15.00",
+    "name": "Hamburguesa con Jamon y Queso",
+    "price": "$6300",
     "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
-    "category": "Platos Principales"
+    "category": "Hamburguesas"
   },
   {
     "id": 6,
-    "name": "Chocolate Cake",
-    "price": "$7.00",
+    "name": "Hamburguesa con Jamon, Queso y Huevo",
+    "price": "$6900",
     "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
-    "category": "Merienda"
+    "category": "Hamburguesas"
   },
   {
     "id": 7,
-    "name": "Coca Cola",
-    "price": "$3.00",
+    "name": "Hamburguesa Completa",
+    "price": "$7500",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Hamburguesas"
+  },
+  {
+    "id": 8,
+    "name": "Porcion de Papas Fritas",
+    "price": "$3500",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Entradas"
+  },
+  {
+    "id": 9,
+    "name": "Porcion de Nuggets de Pollo",
+    "price": "$4500",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Entradas"
+  },
+  {
+    "id": 10,
+    "name": "Porcion de Bastoncitos de Queso",
+    "price": "$5000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Entradas"
+  },
+  {
+    "id": 11,
+    "name": "Pancho Simple",
+    "price": "$1500",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Panchos"
+  },
+  {
+    "id": 12,
+    "name": "Pancho con Jamon y Queso",
+    "price": "$2000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Panchos"
+  },
+  {
+    "id": 13,
+    "name": "Stella Artois 473ml",
+    "price": "$3500",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Cervezas"
+  },
+  {
+    "id": 14,
+    "name": "Corona 355ml",
+    "price": "$3500",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Cervezas"
+  },
+  {
+    "id": 15,
+    "name": "Andes Origen Roja 473ml",
+    "price": "$3000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Cervezas"
+  },
+  {
+    "id": 16,
+    "name": "Andes Origen Negra 473ml",
+    "price": "$3000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Cervezas"
+  },
+  {
+    "id": 17,
+    "name": "Andes Origen IPA 473ml",
+    "price": "$3000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Cervezas"
+  },
+  {
+    "id": 18,
+    "name": "Pepsi 1.5L",
+    "price": "$4000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 19,
+    "name": "7up 1.5L",
+    "price": "$4000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 20,
+    "name": "Paso de los Toros 1.5L",
+    "price": "$4000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 21,
+    "name": "Paso de los Toros Tónica 1.5L",
+    "price": "$4000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 22,
+    "name": "Mirinda 1.5L",
+    "price": "$4000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 23,
+    "name": "H2O 1.5L",
+    "price": "$3500",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 24,
+    "name": "Eco de los Andes 1.5L",
+    "price": "$3000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 25,
+    "name": "Eco de los Andes 1L",
+    "price": "$2500",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 26,
+    "name": "Gatorade 1.25L",
+    "price": "$4800",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 27,
+    "name": "Smudius 1L",
+    "price": "$4000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 28,
+    "name": "Smudius 500ml",
+    "price": "$2500",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 29,
+    "name": "H2O 500ml",
+    "price": "$1500",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 30,
+    "name": "Eco de los Andes 500ml",
+    "price": "$2000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 31,
+    "name": "Pepsi lata 354ml",
+    "price": "$2000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 32,
+    "name": "7up lata 354ml",
+    "price": "$2000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 33,
+    "name": "Mirinda lata 354ml",
+    "price": "$2000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 34,
+    "name": "Paso de los Toros Lata 354ml",
+    "price": "$1500",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Bebidas"
+  },
+  {
+    "id": 35,
+    "name": "Gatorade 500ml",
+    "price": "$2500",
     "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
     "category": "Bebidas"
   }
