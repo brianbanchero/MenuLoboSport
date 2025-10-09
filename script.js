@@ -5,37 +5,6 @@ toggleBtn.addEventListener("click", () => {
   nav.classList.toggle("open");
 });
 
-// Load menu items from menu.json and render as cards
-async function loadMenu() {
-  const container = document.querySelector('.menu');
-  if (!container) return;
-
-  try {
-    const res = await fetch('menu.json');
-    if (!res.ok) throw new Error('No se pudo cargar el menú');
-    const items = await res.json();
-
-    // Clear existing content
-    container.innerHTML = '';
-
-    items.forEach(item => {
-      const card = document.createElement('div');
-      card.className = 'menu-item';
-
-      card.innerHTML = `
-        <img src="${item.image}" alt="${item.name}">
-        <h3>${item.name}</h3>
-        <p class="price">${item.price}</p>
-      `;
-
-      container.appendChild(card);
-    });
-  } catch (err) {
-    container.innerHTML = '<p style="padding:20px;">No se pudo cargar el menú. Intenta recargar la página.</p>';
-    console.error(err);
-  }
-}
-
 let allItems = [];
 
 function renderMenu(items) {
