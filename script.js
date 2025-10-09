@@ -59,7 +59,7 @@ function renderMenu(items) {
 
 async function loadMenu() {
   try {
-    const res = await fetch('menu.json');
+    const res = await fetch('menu.JSON');
     if (!res.ok) throw new Error('No se pudo cargar el menú');
     allItems = await res.json();
     renderMenu(allItems);
