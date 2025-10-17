@@ -3,84 +3,84 @@
     "id": 1,
     "name": "Empanada de Carne",
     "price": "$2.000",
-    "image": "https://images.unsplash.com/photo-1604909053223-03a5c9dc6258",
+    "image": "imagenes/empanada-carne.jpeg",
     "category": "Empanadas"
   },
   {
     "id": 2,
     "name": "Empanada de Pollo",
     "price": "$2000",
-    "image": "https://images.unsplash.com/photo-1603133872878-684f54ad5b01",
+    "image": "imagenes/empanada-pollo.jpeg",
     "category": "Empanadas"
   },
   {
     "id": 3,
     "name": "Empanada de Jamon y Queso",
     "price": "$2000",
-    "image": "https://images.unsplash.com/photo-1594007654729-407eedc4f0d5",
+    "image": "imagenes/empanada-jyq.jpeg",
     "category": "Empanadas"
   },
   {
     "id": 4,
     "name": "Hamburguesa Simple",
     "price": "$6000",
-    "image": "https://images.unsplash.com/photo-1572441710534-6809d55b6f08",
+    "image": "imagenes/hamb-simple.jpeg",
     "category": "Hamburguesas"
   },
   {
     "id": 5,
     "name": "Hamburguesa con Jamon y Queso",
     "price": "$6300",
-    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+    "image": "imagenes/hamb-con-jyq.jpeg",
     "category": "Hamburguesas"
   },
   {
     "id": 6,
     "name": "Hamburguesa con Jamon, Queso y Huevo",
     "price": "$6900",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "image": "imagenes/hamb-j,qyh.jpeg",
     "category": "Hamburguesas"
   },
   {
     "id": 7,
     "name": "Hamburguesa Completa",
     "price": "$7500",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "image": "imagenes/hamb-completa.jpeg",
     "category": "Hamburguesas"
   },
   {
     "id": 8,
     "name": "Porcion de Papas Fritas",
     "price": "$3500",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "image": "imagenes/porcion-papas.jpeg",
     "category": "Entradas"
   },
   {
     "id": 9,
     "name": "Porcion de Nuggets de Pollo",
     "price": "$4500",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "image": "imagenes/nuggets.jpeg",
     "category": "Entradas"
   },
   {
     "id": 10,
-    "name": "Porcion de Bastoncitos de Queso",
+    "name": "Tortilla de Papas",
     "price": "$5000",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "image": "imagenes/tortilla-papa.jpeg",
     "category": "Entradas"
   },
   {
     "id": 11,
     "name": "Pancho Simple",
     "price": "$1500",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "image": "imagenes/pancho-simple.jpeg",
     "category": "Panchos"
   },
   {
     "id": 12,
     "name": "Pancho con Jamon y Queso",
     "price": "$2000",
-    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "image": "imagenes/pancho-jyq.jpeg",
     "category": "Panchos"
   },
   {
@@ -177,7 +177,7 @@
   {
     "id": 26,
     "name": "Gatorade 1.25L",
-    "price": "$4800",
+    "price": "$5000",
     "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
     "category": "Bebidas"
   },
@@ -233,7 +233,7 @@
   {
     "id": 34,
     "name": "Paso de los Toros Lata 354ml",
-    "price": "$1500",
+    "price": "$2000",
     "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
     "category": "Bebidas"
   },
@@ -243,5 +243,167 @@
     "price": "$2500",
     "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
     "category": "Bebidas"
+  },
+  {
+    "id": 36,
+    "name": "Brahma 473ml",
+    "price": "$3000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Cervezas"
+  },
+  {
+    "id": 37,
+    "name": "Quilmes 473ml",
+    "price": "$3000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Cervezas"
+  },
+  {
+    "id": 38,
+    "name": "Fernet 500ml",
+    "price": "$5000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Tragos"
+  }
+  ,
+  {
+    "id": 39,
+    "name": "Aperol 500ml",
+    "price": "$5000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Tragos"
+  },
+  {
+    "id": 40,
+    "name": "Gin Tonic 500ml",
+    "price": "$5000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Tragos"
+  },
+  {
+    "id": 41,
+    "name": "Cynar 500ml",
+    "price": "$5000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Tragos"
+  },
+  {
+    "id": 42,
+    "name": "Campari 500ml",
+    "price": "$5000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Tragos"
+  },
+  {
+    "id": 43,
+    "name": "Café pocillo",
+    "price": "$2000",
+    "image": "imagenes/cafe-pocillo.jpeg",
+    "category": "Desayuno/Merienda"
+  },
+  {
+    "id": 44,
+    "name": "Café jarrito",
+    "price": "$2500",
+    "image": "imagenes/cafe-jarrito.jpeg",
+    "category": "Desayuno/Merienda"
+  },
+  {
+    "id": 45,
+    "name": "Café doble",
+    "price": "$3000",
+    "image": "imagenes/cafe-doble.jpeg",
+    "category": "Desayuno/Merienda"
+  },
+  {
+    "id": 46,
+    "name": "Té / Matecocido",
+    "price": "$1500",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Desayuno/Merienda"
+  },
+  {
+    "id": 47,
+    "name": "Té / Matecocido con leche",
+    "price": "$2000",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "category": "Desayuno/Merienda"
+  },
+  {
+    "id": 48,
+    "name": "Medialuna de Manteca",
+    "price": "$500",
+    "image": "imagenes/medialuna.jpeg",
+    "category": "Desayuno/Merienda"
+  },
+  {
+    "id": 49,
+    "name": "Medialuna de Manteca con Jamon y Queso",
+    "price": "$2000",
+    "image": "imagenes/medialuna-con-jyq.jpeg",
+    "category": "Desayuno/Merienda"
+  },
+  {
+    "id": 50,
+    "name": "Brownie de chocolate",
+    "price": "$2500",
+    "image": "imagenes/brownie.jpeg",
+    "category": "Desayuno/Merienda"
+  },
+  {
+    "id": 51,
+    "name": "Ensalada de Frutas",
+    "price": "$3500",
+    "image": "imagenes/ensalada-de-frutas.jpeg",
+    "category": "Desayuno/Merienda"
+  },
+  {
+    "id": 52,
+    "name": "Milanesa de carne al plato",
+    "price": "$6000",
+    "image": "imagenes/mila-plato.jpeg",
+    "category": "Milanesas"
+  },
+  {
+    "id": 53,
+    "name": "Milanesa de carne al plato con papas fritas",
+    "price": "$8000",
+    "image": "imagenes/mila-plato-con-fritas.jpeg",
+    "category": "Milanesas"
+  },
+  {
+    "id": 54,
+    "name": "Sandwich de Milanesa de carne",
+    "price": "$6500",
+    "image": "imagenes/sandwich-mila.jpeg",
+    "category": "Milanesas"
+  },
+  {
+    "id": 55,
+    "name": "Sandwich de Milanesa de carne con jamon y queso",
+    "price": "$7000",
+    "image": "imagenes/sandwich-mila-completo.jpeg",
+    "category": "Milanesas"
+  },
+  {
+    "id": 56,
+    "name": "Tostado de Jamon y Queso con pan de hamburguesa",
+    "price": "$1600",
+    "image": "imagenes/tostado-jyq.jpeg",
+    "category": "Desayuno/Merienda"
+  },
+  {
+    "id": 57,
+    "name": "Chocotorta",
+    "price": "$4200",
+    "image": "imagenes/chocotorta.jpeg",
+    "category": "Desayuno/Merienda"
+  },
+  {
+    "id": 58,
+    "name": "Porcion de Papas Fritas con Cheddar",
+    "price": "$4000",
+    "image": "imagenes/porcion-papas-cheddar.jpeg",
+    "category": "Entradas"
   }
 ]

@@ -176,10 +176,20 @@ header nav.open {
   text-align: left;
 }
 
-.menu-item img {
+.image-wrapper {
   width: 100%;
-  height: 180px;
-  object-fit: cover;
+  aspect-ratio: 16/9; /* consistent box for images */
+  background: #f7f7f7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.image-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* show whole image without cropping */
   display: block;
 }
 
@@ -199,7 +209,7 @@ header nav.open {
     grid-template-columns: 1fr;
     padding: 12px;
   }
-  .menu-item img {
-    height: 160px;
+  .image-wrapper {
+    aspect-ratio: 4/3; /* a bit taller on small screens */
   }
 }

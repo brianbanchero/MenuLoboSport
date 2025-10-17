@@ -17,7 +17,9 @@ function renderMenu(items) {
     card.className = 'menu-item';
 
     card.innerHTML = `
-      <img src="${item.image}" alt="${item.name}">
+      <div class="image-wrapper">
+        <img src="${item.image}" alt="${item.name}">
+      </div>
       <h3>${item.name}</h3>
       <p class="price">${item.price}</p>
     `;
